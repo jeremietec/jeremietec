@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jeremietec
+- 👋 Hi, am jeremiah Muli
 - 👀 I’m interested in Technology 
 - 🌱 I’m currently learning ALX Software engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Follow me on twitter @Jeremia03472335
 
 <!---
 jeremietec/jeremietec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
